@@ -1,0 +1,14 @@
+{
+    "Poster": {
+       "exits": {},
+       "actions": {},
+       "points": 1
+    },
+    "Smartphone": {
+       "exits": {},
+       "actions": {
+          "read": "This your 666th time here, HAHA!"
+       },
+       "points": 10
+    }
+ }
