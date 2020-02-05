@@ -7,7 +7,7 @@
     "Smartphone": {
        "exits": {},
        "actions": {
-          "read": "This your 666th time here, HAHA!"
+          "read": "This is your 666th time here, HAHA!"
        },
        "points": 10
     }
